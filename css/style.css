@@ -290,7 +290,7 @@ align-items: center;justify-content: center;}
 animation-iteration-count: 3;}
 .icons2-model:hover{background-color: red;}
 /* model/////////////////////////////////////////////////////////////// */
-.customer{top: 150px;width: 100%;position: relative;background-color: rgba(127, 238, 255, 0.252);
+.customer{top: 150px;width: 100%;position: relative;background-color:rgba(237, 231, 231, 0.342);
 display: flex;justify-content: center;height: 400px;box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.3);
 }
 .info-customer{display: flex;flex-direction: column;justify-content: space-between;padding-top: 40px;
