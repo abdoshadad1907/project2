@@ -361,7 +361,7 @@ justify-content: flex-start;}
 .sahm_like1 i:hover ,.sahm_like i:hover{color: black;}
 /* like////////////////////////////////////////////////////////////// */
 .title-news{font-size: 32px;font-weight: bold;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
-.container-news{width: 100%;background-color: rgba(215, 243, 250, 0.286);position: relative;
+.container-news{width: 100%;background-color: rgba(237, 231, 231, 0.342);position: relative;
 display: flex;top: 350px;flex-direction: column;justify-content: space-evenly;
 align-items: center;height: 780px;box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.4);}
 .parent-news{display: flex;justify-content: center;width: 100%;justify-content: space-evenly;}
