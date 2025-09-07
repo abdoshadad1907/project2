@@ -238,7 +238,7 @@ font-size: 22px;transition: 1s;line-height: 70px;}
 .trending{width:100% ;display: flex;justify-content: space-between;
 padding: 100px 100px;}
 .p_trending{font-size: 30px;font-weight: bold;}
-.a_trending{display: flex;justify-content: space-evenly;width: 300px;}
+.a_trending{display: flex;justify-content: space-between;width: 300px;}
 .a_trending1{text-decoration: none;font-size: 22px;color: black;}
 .a_trending2{text-decoration:none;color: red;font-size: 22px;position: relative;
 display: flex;justify-content: center;}
